@@ -1,0 +1,10 @@
+F:\ITStep\2 курс\WF\CW\3)Controls.ComboBox\bin\Debug\3)Controls.ComboBox.exe.config
+F:\ITStep\2 курс\WF\CW\3)Controls.ComboBox\bin\Debug\3)Controls.ComboBox.exe
+F:\ITStep\2 курс\WF\CW\3)Controls.ComboBox\bin\Debug\3)Controls.ComboBox.pdb
+F:\ITStep\2 курс\WF\CW\3)Controls.ComboBox\obj\Debug\3)Controls.ComboBox.csprojAssemblyReference.cache
+F:\ITStep\2 курс\WF\CW\3)Controls.ComboBox\obj\Debug\_3_Controls.ComboBox.Form1.resources
+F:\ITStep\2 курс\WF\CW\3)Controls.ComboBox\obj\Debug\_3_Controls.ComboBox.Properties.Resources.resources
+F:\ITStep\2 курс\WF\CW\3)Controls.ComboBox\obj\Debug\3)Controls.ComboBox.csproj.GenerateResource.cache
+F:\ITStep\2 курс\WF\CW\3)Controls.ComboBox\obj\Debug\3)Controls.ComboBox.exe
+F:\ITStep\2 курс\WF\CW\3)Controls.ComboBox\obj\Debug\3)Controls.ComboBox.pdb
+F:\ITStep\2 курс\WF\CW\3)Controls.ComboBox\bin\Debug\Resources\pngtree-vector-fuel-station-icon-png-image_745264.jpg
